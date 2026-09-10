@@ -19,6 +19,4 @@ Hi, I'm Poorvi 👋 — an Electronics & Communication Engineering student at SJ
 ![](https://github-contributor-stats.vercel.app/api?username=Poorvi88&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Poorvi88&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=Poorvi88&icon=0&color=3)](https://visitcount.itsvg.in
